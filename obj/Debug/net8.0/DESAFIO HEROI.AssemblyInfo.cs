@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DESAFIO HEROI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82e422a71bd988ddbbb633462b3a42009ab9d66b")]
 [assembly: System.Reflection.AssemblyProductAttribute("DESAFIO HEROI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DESAFIO HEROI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

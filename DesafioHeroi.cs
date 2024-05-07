@@ -7,7 +7,7 @@ namespace DesafioHeroi
     class Program
    {    
     public static string name = "SwordLord";
-    public static int xp = 5555;
+    public static int xp = 3000;
     public static string level = "MyLevel";
 
         static void Main(string[] args)

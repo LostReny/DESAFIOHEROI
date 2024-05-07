@@ -26,3 +26,4 @@ D:\GAME\DIO\DESAFIOHEROI\obj\Debug\net8.0\refint\DESAFIO HEROI.dll
 D:\GAME\DIO\DESAFIOHEROI\obj\Debug\net8.0\DESAFIO HEROI.pdb
 D:\GAME\DIO\DESAFIOHEROI\obj\Debug\net8.0\DESAFIO HEROI.genruntimeconfig.cache
 D:\GAME\DIO\DESAFIOHEROI\obj\Debug\net8.0\ref\DESAFIO HEROI.dll
+D:\GAME\DIO\DESAFIOHEROI\obj\Debug\net8.0\DESAFIO HEROI.sourcelink.json
