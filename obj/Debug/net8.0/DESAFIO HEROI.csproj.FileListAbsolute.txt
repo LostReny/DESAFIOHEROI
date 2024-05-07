@@ -1,0 +1,28 @@
+D:\GAME\DIO\DESAFIO HEROI\obj\Debug\net8.0\DESAFIO HEROI.GeneratedMSBuildEditorConfig.editorconfig
+D:\GAME\DIO\DESAFIO HEROI\obj\Debug\net8.0\DESAFIO HEROI.AssemblyInfoInputs.cache
+D:\GAME\DIO\DESAFIO HEROI\obj\Debug\net8.0\DESAFIO HEROI.AssemblyInfo.cs
+D:\GAME\DIO\DESAFIO HEROI\obj\Debug\net8.0\DESAFIO HEROI.csproj.CoreCompileInputs.cache
+D:\GAME\DIO\DESAFIO HEROI\bin\Debug\net8.0\DESAFIO HEROI.exe
+D:\GAME\DIO\DESAFIO HEROI\bin\Debug\net8.0\DESAFIO HEROI.deps.json
+D:\GAME\DIO\DESAFIO HEROI\bin\Debug\net8.0\DESAFIO HEROI.runtimeconfig.json
+D:\GAME\DIO\DESAFIO HEROI\bin\Debug\net8.0\DESAFIO HEROI.dll
+D:\GAME\DIO\DESAFIO HEROI\bin\Debug\net8.0\DESAFIO HEROI.pdb
+D:\GAME\DIO\DESAFIO HEROI\obj\Debug\net8.0\DESAFIO HEROI.dll
+D:\GAME\DIO\DESAFIO HEROI\obj\Debug\net8.0\refint\DESAFIO HEROI.dll
+D:\GAME\DIO\DESAFIO HEROI\obj\Debug\net8.0\DESAFIO HEROI.pdb
+D:\GAME\DIO\DESAFIO HEROI\obj\Debug\net8.0\DESAFIO HEROI.genruntimeconfig.cache
+D:\GAME\DIO\DESAFIO HEROI\obj\Debug\net8.0\ref\DESAFIO HEROI.dll
+D:\GAME\DIO\DESAFIOHEROI\bin\Debug\net8.0\DESAFIO HEROI.exe
+D:\GAME\DIO\DESAFIOHEROI\bin\Debug\net8.0\DESAFIO HEROI.deps.json
+D:\GAME\DIO\DESAFIOHEROI\bin\Debug\net8.0\DESAFIO HEROI.runtimeconfig.json
+D:\GAME\DIO\DESAFIOHEROI\bin\Debug\net8.0\DESAFIO HEROI.dll
+D:\GAME\DIO\DESAFIOHEROI\bin\Debug\net8.0\DESAFIO HEROI.pdb
+D:\GAME\DIO\DESAFIOHEROI\obj\Debug\net8.0\DESAFIO HEROI.GeneratedMSBuildEditorConfig.editorconfig
+D:\GAME\DIO\DESAFIOHEROI\obj\Debug\net8.0\DESAFIO HEROI.AssemblyInfoInputs.cache
+D:\GAME\DIO\DESAFIOHEROI\obj\Debug\net8.0\DESAFIO HEROI.AssemblyInfo.cs
+D:\GAME\DIO\DESAFIOHEROI\obj\Debug\net8.0\DESAFIO HEROI.csproj.CoreCompileInputs.cache
+D:\GAME\DIO\DESAFIOHEROI\obj\Debug\net8.0\DESAFIO HEROI.dll
+D:\GAME\DIO\DESAFIOHEROI\obj\Debug\net8.0\refint\DESAFIO HEROI.dll
+D:\GAME\DIO\DESAFIOHEROI\obj\Debug\net8.0\DESAFIO HEROI.pdb
+D:\GAME\DIO\DESAFIOHEROI\obj\Debug\net8.0\DESAFIO HEROI.genruntimeconfig.cache
+D:\GAME\DIO\DESAFIOHEROI\obj\Debug\net8.0\ref\DESAFIO HEROI.dll

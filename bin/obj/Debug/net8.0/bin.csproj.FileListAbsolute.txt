@@ -1,0 +1,14 @@
+D:\GAME\DIO\DESAFIOHEROI\bin\bin\Debug\net8.0\bin.exe
+D:\GAME\DIO\DESAFIOHEROI\bin\bin\Debug\net8.0\bin.deps.json
+D:\GAME\DIO\DESAFIOHEROI\bin\bin\Debug\net8.0\bin.runtimeconfig.json
+D:\GAME\DIO\DESAFIOHEROI\bin\bin\Debug\net8.0\bin.dll
+D:\GAME\DIO\DESAFIOHEROI\bin\bin\Debug\net8.0\bin.pdb
+D:\GAME\DIO\DESAFIOHEROI\bin\obj\Debug\net8.0\bin.GeneratedMSBuildEditorConfig.editorconfig
+D:\GAME\DIO\DESAFIOHEROI\bin\obj\Debug\net8.0\bin.AssemblyInfoInputs.cache
+D:\GAME\DIO\DESAFIOHEROI\bin\obj\Debug\net8.0\bin.AssemblyInfo.cs
+D:\GAME\DIO\DESAFIOHEROI\bin\obj\Debug\net8.0\bin.csproj.CoreCompileInputs.cache
+D:\GAME\DIO\DESAFIOHEROI\bin\obj\Debug\net8.0\bin.dll
+D:\GAME\DIO\DESAFIOHEROI\bin\obj\Debug\net8.0\refint\bin.dll
+D:\GAME\DIO\DESAFIOHEROI\bin\obj\Debug\net8.0\bin.pdb
+D:\GAME\DIO\DESAFIOHEROI\bin\obj\Debug\net8.0\bin.genruntimeconfig.cache
+D:\GAME\DIO\DESAFIOHEROI\bin\obj\Debug\net8.0\ref\bin.dll
